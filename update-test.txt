@@ -1,0 +1,10 @@
+
+This is an example file.
+
+It contains the string table multiple times.
+
+The table in the study room is made of oak.
+I like to work at the table in the study room.
+Can you pass the book on the table, please?
+We need to buy a new table for the study room.
+The table in the study room is too small.
